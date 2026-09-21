@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trysoro-dev.github.io/sitemap.xml
