@@ -20,4 +20,5 @@ Soro is aimed squarely at founders who know they need content and have no intent
 
 *This is an independent review page, not operated by or affiliated with Soro, and all product names and trademarks belong to their respective owners.*
 
+
 _Last reviewed: 2026-09-22_
